@@ -24,11 +24,11 @@
 *Webview2版的工具界面依赖 Microsoft WebView2 运行时。新版本的 Windows 10 和 Windows 11 系统已预装该组件，无需手动安装。如果遇到工具运行时提示 “未安装 WebView2”，请根据您的系统环境选择对应的安装方式：*
 
 **Windows 10（联网环境）**
-只需下载微软官方提供的安装引导程序，双击运行即可自动完成安装。
+只需下载微软官方提供的安装引导程序，双击运行即可自动完成安装。  
 👉 [点击下载Webview2安装引导程序](https://secbox.dbappsecurity.com.cn/tool/tools/resource/webview2/win10/MicrosoftEdgeWebview2Setup.exe)
 
 **Windows 7 / 8 或 无网络环境**
-请下载微软官方提供的离线安装包，在目标电脑上离线安装。
+请下载微软官方提供的离线安装包，在目标电脑上离线安装。  
 👉 [点击下载Webview2离线安装包](https://secbox.dbappsecurity.com.cn/tool/tools/resource/webview2/win7/MicrosoftEdgeWebView2RuntimeInstallerX64.exe)
 
 ## 工具展示
